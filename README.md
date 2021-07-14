@@ -8,7 +8,7 @@
 <a href="https://github.com/woocommerce/woocommerce/actions/workflows/ci.yml"><img src="https://github.com/woocommerce/woocommerce/actions/workflows/ci.yml/badge.svg?branch=trunk" alt="Build Status"></a>
 <a href="https://codecov.io/gh/woocommerce/woocommerce"><img src="https://codecov.io/gh/woocommerce/woocommerce/branch/trunk/graph/badge.svg" alt="codecov"></a>
 
-##EasyCommerce for Raindrop
+## EasyCommerce for Raindrop
   This application based on WooCommerce, and modified for use with Parapluie Creative products.
 
   ## Documentation
