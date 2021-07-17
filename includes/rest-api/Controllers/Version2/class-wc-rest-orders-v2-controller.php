@@ -1312,7 +1312,7 @@ class WC_REST_Orders_V2_Controller extends WC_REST_CRUD_Controller {
 							),
 							'quantity'     => array(
 								'description' => __( 'Quantity ordered.', 'woocommerce' ),
-								'type'        => 'integer',
+								'type'        => 'float',
 								'context'     => array( 'view', 'edit' ),
 							),
 							'tax_class'    => array(
