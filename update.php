@@ -26,7 +26,7 @@ function aaa_result($res, $action, $args) {
 */
 
 
-$api_url = 'https://api.parapluie.dev/api/';
+$api_url = 'https://api.parapluie.dev/api';
 $plugin_slug = basename(dirname(__FILE__));
 
 
